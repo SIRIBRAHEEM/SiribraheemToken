@@ -110,8 +110,7 @@ Arc is currently running on **Public Testnet**. Mainnet is expected later in 202
 - Decimals: `18`
 
 ### 2. View the Contract on Explorer
-[Click here to view Siribraheem Token on Arc Testnet Explorer](https://testnet.arcscan.app/address/0xYourContractAddressHere)
-
+[Click here to view Siribraheem Token on Arc Testnet Explorer](https://testnet.arcscan.app/address/0xD0cE4a929A2C20A28A6DB3009aD47A31BBEf9e41)
 ### 3. Interact with the Token
 You can:
 - Send and receive ST tokens
