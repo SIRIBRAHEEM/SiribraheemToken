@@ -105,7 +105,7 @@ Arc is currently running on **Public Testnet**. Mainnet is expected later in 202
 
 ### 1. Add the Token to MetaMask
 - Go to **Add Token** in MetaMask
-- Paste the contract address: `0xYourContractAddressHere`
+- Paste the contract address: `0xD0cE4a929A2C20A28A6DB3009aD47A31BBEf9e41`
 - Symbol: `ST`
 - Decimals: `18`
 
